@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Tesla-Clone
+It is a completely based on Reactjs in which I have include the features of React such as styled components , react-reveal and redux.
 
 ## Available Scripts
 
